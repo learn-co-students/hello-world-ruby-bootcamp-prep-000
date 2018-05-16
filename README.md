@@ -7,10 +7,7 @@ We're going to make a file that will print ["Hello World!"](http://en.wikipedia.
 ## Objectives
 
 1. Create a new Ruby file.
-2. Write syntactically valid code to produce "Hello World!"
-3. Run a Ruby file.
-4. Run the Learn gem.
-5. Submit a Learn lab.
+2. WLearn lab.
 
 ## Instructions
 
@@ -51,7 +48,6 @@ Confirm everything is working by running the `learn` command. You should see tha
 Note: When you write code, the case (uppercase/lowercase) of characters matters, and so your test will not pass unless you print "Hello World!" exactly. 
 
 ### Submitting Your Lab
-
 Submit your solution by typing `learn submit` into your terminal, then click Next Lesson to move on.
 
 Your adventure in Ruby has only just begun!
