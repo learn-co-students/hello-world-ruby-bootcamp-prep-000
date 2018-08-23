@@ -145,16 +145,34 @@ Thumbs.db
 
 <table>
   <tr>
-    <th>Address</th><th>City</th><th>State</th><th>Sales Price</th>
+    <th>Address</th>
+    <th>City</th>
+    <th>State</th>
+    <th>Sales Price</th>
   </tr>
   <tr>
-    <td>2345 Fairview Ln.</td><td>B<td>
+    <td>2345 Fairview Ln.</td>
+    <td>Brooklyn</td>
+    <td>NY<td>
+    <td>$1.2 mil<td>
   </tr>
   <tr>
-  
+    <td>2345 Fairview Ln.</td>
+    <td>Brooklyn</td>
+    <td>NY<td>
+    <td>$1.2 mil<td>
   </tr>
   <tr>
-  
+   <td>2345 Fairview Ln.</td>
+    <td>Brooklyn</td>
+    <td>NY<td>
+    <td>$1.2 mil<td>
+  </tr>
+   <tr>
+    <td>2345 Fairview Ln.</td>
+    <td>Brooklyn</td>
+    <td>NY<td>
+    <td>$1.2 mil<td>
   </tr>
 </table>
 
