@@ -104,10 +104,21 @@ Thumbs.db
 
 
 
+ # OG: Within exceptional-realty folder, file is real-estate-listings.html
+ 
+ 
 
 
-
-
-
-
-
+  <h3>Property Archive<h3>
+  <h4>2014<h4>
+  <!-- unordered list -->
+  <ul>
+    <li>Dec</li>
+    <li>Nov</li>
+    <li>Oct
+      <ul>
+        <li>17th</li>
+        <li>18th</li>
+      </ul>
+    </li>
+  </ul>  
