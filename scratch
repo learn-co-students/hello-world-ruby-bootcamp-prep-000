@@ -1,13 +1,15 @@
 # OG: Lab is Code Along Exercise I 
 
 # OG: Folder is exceptional-realty .
+# OG: Files within that exceptional-realty folder are:
+# OG: images; .gitignore; contact.html; index.html; market-report.html; new-properties.html; README.md; real-estate-listings.html
 
 
 
 
 
 
-# OG: Within exceptional-realty folder, file is  README.md .
+# OG: File is  README.md .
 
 Exceptional Realty Group Website
 ---
@@ -25,7 +27,7 @@ email: jon@flatiornschool.com
 
 
 
-# OG: Within exceptional-realty folder, file is .gitignore 
+# OG: File is .gitignore 
 
 # Compiled source #
 ###################
@@ -69,7 +71,7 @@ Thumbs.db
 
 
 
- # OG: Within exceptional-realty folder, file is   index.html .
+ # OG: File is   index.html .
 
 <!DOCTYPE html>
 <html lang="en">
@@ -89,6 +91,8 @@ Thumbs.db
    <h1>Exceptional</h1>
    <h2>Realty Group</h2>
    
+   <img src="" alt="">
+   
     <p>Hello, World.<br> Hello, everyone!</p>
     
     <p>Hello, Moon.  Hello, everyone.</p>
@@ -104,7 +108,7 @@ Thumbs.db
 
 
 
- # OG: Within exceptional-realty folder, file is real-estate-listings.html
+ # OG: File is real-estate-listings.html
  
  
 
@@ -136,7 +140,7 @@ Thumbs.db
 
 
 
-# OG: Within exceptional-realty folder, file is market-report.html
+# OG: File is market-report.html
 
 
 
