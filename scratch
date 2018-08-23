@@ -2,7 +2,14 @@
 
 # OG: Folder is exceptional-realty .
 # OG: Files within that exceptional-realty folder are:
-# OG: images; .gitignore; contact.html; index.html; market-report.html; new-properties.html; README.md; real-estate-listings.html
+  # OG: images 
+  # OG: .gitignore 
+  # OG: contact.html 
+  # OG: index.html
+  # OG: market-report.html
+  # OG: new-properties.html
+  # OG: README.md
+  # OG: real-estate-listings.html
 
 
 
