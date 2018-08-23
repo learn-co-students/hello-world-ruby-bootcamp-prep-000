@@ -139,3 +139,30 @@ Thumbs.db
 # OG: Within exceptional-realty folder, file is market-report.html
 
 
+
+
+<h3>Market Report</h3>
+
+<table>
+  <tr>
+    <th>Address</th><th>City</th><th>State</th><th>Sales Price</th>
+  </tr>
+  <tr>
+    <td>2345 Fairview Ln.</td><td>B<td>
+  </tr>
+  <tr>
+  
+  </tr>
+  <tr>
+  
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
