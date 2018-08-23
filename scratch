@@ -1,6 +1,8 @@
-# Code Along Exercise I 
+# OG: Lab is Code Along Exercise I 
 
-# README.md
+# OG: Folder is exceptional-realty .
+
+# OG: Within exceptional-realty folder, file is  README.md .
 
 Exceptional Realty Group Website
 ---
@@ -14,7 +16,7 @@ This is an example site for the Intro to Front-end Web Development Course at The
 email: jon@flatiornschool.com
 
 
-# .gitignore 
+# OG: Within exceptional-realty folder, file is .gitignore 
 
 # Compiled source #
 ###################
