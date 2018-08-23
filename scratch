@@ -2,6 +2,11 @@
 
 # OG: Folder is exceptional-realty .
 
+
+
+
+
+
 # OG: Within exceptional-realty folder, file is  README.md .
 
 Exceptional Realty Group Website
@@ -14,6 +19,10 @@ This is an example site for the Intro to Front-end Web Development Course at The
 # Contact
 
 email: jon@flatiornschool.com
+
+
+
+
 
 
 # OG: Within exceptional-realty folder, file is .gitignore 
@@ -52,6 +61,46 @@ email: jon@flatiornschool.com
 .DS_Store?
 ._*
 .Spotlight-V100
+
+
+
+
+
+
+ # OG: Within exceptional-realty folder, file is   index.html .
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- This is a comment.  I can see it in the code, but it will not appear in the browser. -->
+    
+    <!-- 
+    The head section contains info for search engines and the browser and is not seen by site visitors.
+    -->
+    
+    <meta charset="UTF-8">
+    <title>Exceptional Realty Group - Luxury Homes - About</title>
+  <head/>
+  <body>
+    <!-- The body is the entire viewablearea of the web page.  For example we can see text, links, images, and media. -->  
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .Trashes
 ehthumbs.db
 Thumbs.db
