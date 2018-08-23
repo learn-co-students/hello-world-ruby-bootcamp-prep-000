@@ -122,3 +122,13 @@ Thumbs.db
       </ul>
     </li>
   </ul>  
+  
+  <h3>Popular Listings</h3>
+  <!-- ordered list -->
+  <ol>
+    <li>348 Stockton St.<li>
+    <li>3742A Belevadere Rd.<li>
+    <li>41 Cleaton Ave.</li>
+  </ol>
+  
+  
