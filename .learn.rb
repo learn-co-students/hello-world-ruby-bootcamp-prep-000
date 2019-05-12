@@ -14,3 +14,5 @@ type:
   - lecture
 feature_tours:
   ask_a_question: true
+  
+  
