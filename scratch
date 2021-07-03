@@ -1,0 +1,207 @@
+# OG: Lab is Code Along Exercise I 
+
+# OG: Folder is    exceptional-realty   .
+# OG: Files within  exceptional-realty   folder are:
+  # OG: images   
+    # OG: intro-pic.jpg
+  # OG: .gitignore 
+  # OG: contact.html 
+  # OG: index.html
+  # OG: market-report.html
+  # OG: new-properties.html
+  # OG: README.md
+  # OG: real-estate-listings.html   .
+
+
+
+
+
+
+# OG: File is  README.md .
+
+Exceptional Realty Group Website
+---
+
+# Description
+
+This is an example site for the Intro to Front-end Web Development Course at The Flatiron School.
+
+# Contact
+
+email: jon@flatiornschool.com
+
+
+
+
+
+
+# OG: File is .gitignore 
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+
+
+
+ # OG: File is   index.html .
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- This is a comment.  I can see it in the code, but it will not appear in the browser. -->
+    
+    <!-- 
+    The head section contains info for search engines and the browser and is not seen by site visitors.
+    -->
+    
+    <meta charset="UTF-8">
+    <title>Exceptional Realty Group - Luxury Homes - About</title>
+  <head/>
+  <body>
+    <!-- The body is the entire viewablearea of the web page.  For example we can see text, links, images, and media. -->  
+   
+   <h1>Exceptional</h1>
+   <h2>Realty Group</h2>
+   
+   <!-- links -->
+   <a href="index,html">About</a> <a href="new-properties.ht,l">New Properties</a><a href=real-estate-listings.html">Listings</a> <a href="market-report.html">Market Report</a> <a href="contact.html"> Contact</a> <a href="http://hud.gov" target="_blank">H.U.D.</a>
+   
+   <img src="images/intro-pic.jpg" alt="A beautiful living room." title="Welcome to Exceptional Realty Group">
+   
+   <!--
+   foldername/ = go inside the folder (aka directory).
+   filename = use a file in the current folder (aka directory).
+   ../ = leave the current folder and go up to the parent folder (aka directory).
+   -->
+   
+    <p>Hello, World.<br> Hello, everyone!</p>
+    
+    <p>Hello, Moon.  Hello, everyone.</p>
+    
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+ # OG: File is real-estate-listings.html
+ 
+ 
+
+
+  <h3>Property Archive<h3>
+  <h4>2014<h4>
+  <!-- unordered list -->
+  <ul>
+    <li>Dec</li>
+    <li>Nov</li>
+    <li>Oct
+      <ul>
+        <li>17th</li>
+        <li>18th</li>
+      </ul>
+    </li>
+  </ul>  
+  
+  <h3>Popular Listings</h3>
+  <!-- ordered list -->
+  <ol>
+    <li>348 Stockton St.<li>
+    <li>3742A Belevadere Rd.<li>
+    <li>41 Cleaton Ave.</li>
+  </ol>
+  
+  
+
+
+
+
+# OG: File is market-report.html
+
+
+
+
+<h3>Market Report</h3>
+
+<table>
+  <tr>
+    <th>Address</th>
+    <th>City</th>
+    <th>State</th>
+    <th>Sales Price</th>
+  </tr>
+  <tr>
+    <td>2345 Fairview Ln.</td>
+    <td>Brooklyn</td>
+    <td>NY<td>
+    <td>$1.2 mil<td>
+  </tr>
+  <tr>
+    <td>974 Clapton St.</td>
+    <td>Queens</td>
+    <td>NY<td>
+    <td>$998 k<td>
+  </tr>
+  <tr>
+   <td>2345 Fairview Ln.</td>
+    <td>Brooklyn</td>
+    <td>NY<td>
+    <td>$1.2 mil<td>
+  </tr>
+   <tr>
+    <td>14A Belmont Way</td>
+    <td>Bronx</td>
+    <td>NY<td>
+    <td>$874 k<td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
